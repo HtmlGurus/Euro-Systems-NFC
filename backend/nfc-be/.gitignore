@@ -1,0 +1,5 @@
+node_modules
+.env
+scripts/uploadLogo.js
+scripts/assign_employee_ids.js
+.logo-upload.json
